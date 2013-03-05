@@ -1,4 +1,4 @@
-# StringValidator.py
+# stringvalidator.py
 Aa simple string validator class in Python for basic data validation such as checking
 if a string is alpha, alphanumeric, e-mail etc.
 
@@ -6,7 +6,7 @@ Kailash Nadh, March 2013
 
 License:	MIT License
 
-Documentation: http://nadh.in/code/StringValidator.py
+Documentation: http://nadh.in/code/stringvalidator.py
 
 ## Validation checks
 <table border="1">
