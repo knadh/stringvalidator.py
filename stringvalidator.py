@@ -6,7 +6,7 @@
 	March 2013
 	
 	License:		MIT License
-	Documentation:	http://nadh.in/code/StringValidator.py
+	Documentation:	http://nadh.in/code/stringvalidator.py
 """
 
 import re
